@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622366331349",
+    "project_id": "smart-tra",
+    "storage_bucket": "smart-tra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622366331349:android:9435fa431f9be7b8c4ad5c",
+        "android_client_info": {
+          "package_name": "com.example.smarttravelguideapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622366331349-vtdfd9qhkgk7bel048pd0bdq5a1rl7e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarttravelguideapplication",
+            "certificate_hash": "c95c795303dc0975bc2468dd9fa7e0709365bfab"
+          }
+        },
+        {
+          "client_id": "622366331349-1e6f4aira63m5j2v3nr6pi1o2rml4a6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFNCTszdF093opEptI9aOxt3zSV-6Qkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622366331349-1e6f4aira63m5j2v3nr6pi1o2rml4a6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
